@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Tobias Casper (tlux)
+# 👋 Hi, I’m Tobi
 
 I'm a passionate **Software Engineer** focused on building robust, scalable web applications.
 
