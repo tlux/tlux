@@ -13,8 +13,3 @@ I'm a passionate **Software Engineer** focused on building robust, scalable web 
 ## 🌐 Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/tobias-casper-91372755/)
-
----
-
-Thanks for visiting my profile!  
-Feel free to connect or reach out if you want to talk tech, collaboration, or web development.
