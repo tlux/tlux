@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I’m Tobias Casper (tlux)
 
-<!--
-**tlux/tlux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Software Engineer** focused on building robust, scalable web applications.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:**  
+  Elixir · TypeScript · Kotlin · Ruby · Go
+
+- **Frameworks:**
+  React · Next.js · Phoenix · Ruby on Rails
+
+- **Main Focus:**  
+  Web Development
+
+## 🌐 Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/tobias-casper-91372755/)
+
+---
+
+Thanks for visiting my profile!  
+Feel free to connect or reach out if you want to talk tech, collaboration, or web development.
